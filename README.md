@@ -31,6 +31,7 @@ Here, we classify all the latent space based methods two categories, and sort by
 ## 🤝 Contributing
 We warmly welcome contributions of excellent resources you find via **pull request**. Please follow the instruction in **CONTRIBUTING.md** if you want to make one.
 Additionally, if you want to have any other issue, please add this wechat group.
+
 <img width="200" alt="image" src="img/other/wechat_group.jpg">
 
 
